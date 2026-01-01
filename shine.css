@@ -9,6 +9,12 @@ header {
 
 }
 
+footer {
+    color: rgba(250, 235, 215, 0.6250);
+    text-align: center;
+    margin-top: 50px;
+}
+
 #book-title {
     color: rgba(250, 235, 215, 0.6250);
     font-style: italic;
