@@ -1,0 +1,55 @@
+body {
+    height: auto;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.925), rgba(0, 0, 0, .925)), url("https://m.media-amazon.com/images/I/61ZlstK1jTL._AC_UF894,1000_QL80_.jpg");
+    background-size: contain;
+}
+
+header {
+    text-align: center;
+
+}
+
+#book-title {
+    color: rgba(250, 235, 215, 0.6250);
+    font-style: italic;
+    font-size: 60px;
+    text-transform: uppercase;
+    background: linear-gradient(black, rgba(255, 0, 0, 0.40));
+}
+
+#author {
+    color: rgba(250, 235, 215, 0.5);
+    font-style: normal;
+    font-size: 30px;
+}
+
+#intro {
+    color: rgba(250, 235, 215, 0.6250);
+    padding-bottom: 20px;
+    font-size: 18px;
+    text-indent: 25px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#split {
+    color: rgba(250, 235, 215, 0.6250);
+    text-align: center;
+    padding: 20px;
+
+}
+
+#part-one {
+    color: rgba(250, 235, 215, 0.6250);
+    text-indent: 25px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.para {
+    padding-top: 25px;
+    line-height: 1.5;
+}
